@@ -50,5 +50,4 @@ env/
 # Secrets
 secrets.json
 /pbevly/apps/inventory/migrations/
-/pbevly/apps/inventory/migrations/
 /pbevly/apps/core/migrations/
